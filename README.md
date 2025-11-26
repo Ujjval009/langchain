@@ -32,7 +32,9 @@ KEY FEATURES COVERED IN THIS REPOSITORY
 ✅ Practical example scripts for each concept
 <br>
 <br>
+<br>
 📁 REPOSITORY STRUCTURE
+<br>
 <br>
 📦 LangChain-Learning
 ├── 1.LLMs/                     → Working with LLMs & OpenAI/HF models
@@ -61,9 +63,10 @@ KEY FEATURES COVERED IN THIS REPOSITORY
 <br>
 └── test.py                     → Quick test script
 <br>
-
 <br>
-WHAT YOU WILL LEARN
+<br>
+WHAT YOU WILL LEARN<br>
+
 <br>
 -How LLMs work
 <br>
@@ -84,6 +87,8 @@ WHAT YOU WILL LEARN
 -Building chains like RetrievalQA, RunnableSequence
 <br>
 -How to combine everything into a real project
+<br>
+<br>
 <br>
 ⚙️ INSTALLATION
 <br>
@@ -109,6 +114,9 @@ OPENAI_API_KEY=your_key
 <br>
 HUGGINGFACEHUB_API_KEY=your_key
 <br>
+<br>
+<br>
+
 🧩 Technologies Used
 <br>
 Python 3.10+
@@ -125,8 +133,12 @@ Transformers
 
 <br>
 <br>
+<br>
+<br>
 📚 Learning Goal
 This repository is part of my personal journey to become a Generative AI Developer.
 I am learning LangChain from zero to advanced and converting each concept into clean, practical Python files.
+<br>
+<br>
 <br>
 AUTHOR - UJJVAL SHARMA
