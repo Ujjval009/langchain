@@ -2,13 +2,13 @@
 
 Welcome to my complete LangChain learning repository.
 This repo contains well-organized folders that cover everything from the basics of LLMs to advanced LangChain concepts like Chains, Runnables, VectorStores, Output Parsers, Embeddings, and Document Loaders.
-
+<br>
 This project is designed for students, beginners, and developers who want to learn practical GenAI development using Python + LangChain.
 📌 Features Covered in This Repository
 
-
+<br>
 KEY FEATURES COVERED IN THIS REPOSITORY
-
+<br>
 ✅ LLMs (OpenAI, HuggingFace, Local Models)
 ✅ Chat Models
 ✅ Prompt Engineering
@@ -20,10 +20,10 @@ KEY FEATURES COVERED IN THIS REPOSITORY
 ✅ Chains (LCEL, Sequential, Runnable)
 ✅ Structured Output
 ✅ Practical example scripts for each concept
-
-
+<br>
+<br>
 📁 REPOSITORY STRUCTURE
-
+<br>
 📦 LangChain-Learning
 ├── 1.LLMs/                     → Working with LLMs & OpenAI/HF models
 ├── 2.ChatModels/               → ChatOpenAI, ChatHuggingFace examples
@@ -39,9 +39,9 @@ KEY FEATURES COVERED IN THIS REPOSITORY
 ├── requirement.txt             → All required dependencies
 └── test.py                     → Quick test script
 
-
+<br>
 WHAT YOU WILL LEARN
-
+<br>
 -How LLMs work
 -How to call LLMs using LangChain
 -How chat models process messages
@@ -52,9 +52,9 @@ WHAT YOU WILL LEARN
 -Using output parsers to control the model output
 -Building chains like RetrievalQA, RunnableSequence
 -How to combine everything into a real project
-
+<br>
 ⚙️ INSTALLATION
-
+<br>
 1️⃣ CLONE THE REPOSITORY
 git clone : https://github.com/Ujjval009/langchain.git
 -cd langchain
@@ -66,7 +66,7 @@ pip install -r requirement.txt
 4️⃣ ADD YOUR API KEYS (IF USING OPENAI OR HF)
 OPENAI_API_KEY=your_key
 HUGGINGFACEHUB_API_KEY=your_key
-
+<br>
 🧩 Technologies Used
 Python 3.10+
 LangChain
@@ -74,10 +74,10 @@ OpenAI / HuggingFace models
 FAISS VectorStore
 dotenv
 Transformers
-
-
+<br>
+<br>
 📚 Learning Goal
 This repository is part of my personal journey to become a Generative AI Developer.
 I am learning LangChain from zero to advanced and converting each concept into clean, practical Python files.
-
+<br>
 AUTHOR - UJJVAL SHARMA
